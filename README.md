@@ -31,7 +31,7 @@ Um pouco sobre minhas habilidades
   <img align="center" alt="Bruno-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Bruno-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
-
+<br>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunoqualhato\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 # Linguagens que mais uso
