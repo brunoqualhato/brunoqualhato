@@ -13,3 +13,5 @@ Um pouco sobre minhas habilidades
   Contador de Visitantes<br>
 <img src="https://profile-counter.glitch.me/brunoqualhato/count.svg" data-canonical-src="https://profile-counter.glitch.me/brunoqualhato/count.svg" style="max-width: 100%;">
 </p>
+<br>
+<img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
