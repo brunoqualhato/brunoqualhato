@@ -8,3 +8,8 @@ Um pouco sobre minhas habilidades
 
 # Linguagens que mais uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoqualhato&layout=compact)
+<br><br>
+<p align="center" dir="auto"> 
+  Contador de Visitantes<br>
+<img src="https://profile-counter.glitch.me/brunoqualhato/count.svg" data-canonical-src="https://profile-counter.glitch.me/brunoqualhato/count.svg" style="max-width: 100%;">
+</p>
