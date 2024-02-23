@@ -7,4 +7,4 @@
   Contador de Visitantes<br>
 <img src="https://profile-counter.glitch.me/brunoqualhato/count.svg" data-canonical-src="https://profile-counter.glitch.me/brunoqualhato/count.svg" style="max-width: 100%;">
 </p>
-[![Bruno Qualhato GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoqualhato)]
+[![BrunoQualhato GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunoqualhato\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
