@@ -40,6 +40,9 @@ Um pouco sobre minhas habilidades
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoqualhato&layout=compact)
 <br><br>
 <p align="center" dir="auto"> 
+   obrigado pela visita e fique à vontade para fornecer feedback
+
+![image](https://github.com/juxtopposed/juxtopposed/assets/115173648/f8006608-d227-4fcf-802f-216db800beb9)
   Contador de Visitantes<br>
 <img src="https://profile-counter.glitch.me/brunoqualhato/count.svg" data-canonical-src="https://profile-counter.glitch.me/brunoqualhato/count.svg" style="max-width: 100%;">
 </p>
