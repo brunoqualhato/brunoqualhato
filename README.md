@@ -33,3 +33,6 @@ Se você deseja colaborar com algum dos meus projetos, siga os passos abaixo:
 ---
 
 Espero que você encontre algo interessante aqui! Vamos construir algo incrível juntos. 🚀
+
+
+Powered by Llama 3.2
